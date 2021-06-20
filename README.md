@@ -28,3 +28,15 @@ There is no statistical difference in PSI in lots one and two and overal from th
 
 ## Study Design: MechaCar vs Competition
 
+Determine if MechaCar fuel efficiency is statistically different from the mean fuel efficiency of major competitors.
+
+Metrics to test:
+City or highway fuel efficiency
+
+Null Hypothesis: MechaCar fuel efficiency data is statistically different from its competitors. 
+
+Alternative Hypothesis: MechaCar fuel efficiency data is not statistically different from its competitors.
+
+A t-test should be used to test the hypothesis by comparing mean fuel efficiency of major competitors and the MechaCar data.
+
+Data needed to run the statistical test includes fuel efficiency data of major competitors and MechaCar fuel efficiency data.
