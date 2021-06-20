@@ -19,4 +19,12 @@ The design specifications for the MechaCar suspension coils dictate that the var
 Based on the current manufacturing data, lots one, two, and total variance meet the design specifications, but lot three exceeds the specifications for variance with a varience of 170.29.
 
 ## T-Tests on Suspension Coils
+![T-Test All](https://github.com/marhanlang/MechaCar_Statistical_Analysis/blob/main/Images/t_testAll.png)
+![T-Test 1](https://github.com/marhanlang/MechaCar_Statistical_Analysis/blob/main/Images/t_testL1.png)
+![T-Test 2](https://github.com/marhanlang/MechaCar_Statistical_Analysis/blob/main/Images/t_testL2.png)
+![T-Test 3](https://github.com/marhanlang/MechaCar_Statistical_Analysis/blob/main/Images/t_testL3.png)
+
+There is no statistical difference in PSI in lots one and two and overal from the population mean of 1,500 PSI. Lot 3 is the only lot where the p-value is not above the assumed significance level of 0.05.
+
+## Study Design: MechaCar vs Competition
 
